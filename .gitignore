@@ -1,0 +1,43 @@
+# Build Folders
+bin/
+obj/
+
+# User-Specific Files
+.vs/
+*.user
+*.suo
+
+# Configuration files
+appsettings.Development.json
+
+# Log files
+*.log
+
+# Visual Studio specific
+.vscode/
+
+# Dependency directories
+packages/
+*.nupkg
+*.snupkg
+*.nuget/
+
+# Publish outputs
+wwwroot/
+
+# Rider
+.idea/
+
+# User Secrets
+secrets.json
+
+# Certificates
+*.pfx
+*.cer
+
+# Mac files
+.DS_Store
+
+# Windows files
+Thumbs.db
+desktop.ini
